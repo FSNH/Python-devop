@@ -1,3 +1,0 @@
-[scrapy]
-settings = Scra_Picture.settings
-
