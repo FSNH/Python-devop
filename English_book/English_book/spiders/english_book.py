@@ -1,12 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from English_book.items import EnglishBookItem
-# DEBUG: Filtered offsite request to 'www.xxx.com': 。。。
-# 那就是request的地址和allow_domain里面的冲突而被过滤
-# 我的爬虫类继承自RedisSpider，是不需要写allowd_domains的"""
-# 解决方法：
-# 使用Request的参数dont_filter=True，即：
-# yield Request(url, callback=self.parse_item, dont_filter=True)
+
 
 
 class EnglishBookSpider(scrapy.Spider):
