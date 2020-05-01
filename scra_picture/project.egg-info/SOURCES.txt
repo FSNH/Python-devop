@@ -1,0 +1,13 @@
+setup.py
+Scra_Picture/__init__.py
+Scra_Picture/items.py
+Scra_Picture/middlewares.py
+Scra_Picture/pipelines.py
+Scra_Picture/settings.py
+Scra_Picture/spiders/PIC.py
+Scra_Picture/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
