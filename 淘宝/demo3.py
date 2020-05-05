@@ -5,8 +5,8 @@ import time
 import random
 
 # 你的账户密码
-username = "18851153282"
-password = "meng320882"
+username = "账号"
+password = "密码"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--window-position=0,0")
