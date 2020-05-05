@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
+# scrapy 爬取盗墓笔记
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 class ExamlpeSpider(CrawlSpider):
